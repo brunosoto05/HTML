@@ -1,0 +1,13 @@
+ Crea un blog que tenga una portada
+    un contenido principal
+    con un articulo con varios parrafos
+    un titular principal, y varius subtitulos
+    una lista con varios puntos, un autor
+    una fecha de publicacion. Y una seccion lateral
+    fuera de main que tenga una lista desirganizada
+    de opciones con botones. Y agrega varios links
+    de referencia a los parrafos de los articulos.
+
+    Nota: trata de utilizar las etiquetas adecuadas
+    para cada uno de los elementos, el articulo puede
+    ser de lo que deseas, incluso con informacion falsa.
